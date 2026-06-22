@@ -91,13 +91,13 @@ cd Abyss-Beast-Protocol
 สร้างไฟล์ใหม่ชื่อ:
 
 ```txt
-<YOUR_MONSTER_NAME_HERE>.txt
+<YOUR_MONSTER_NAME_HERE>.md
 ```
 
 ตัวอย่าง:
 
 ```txt
-Abyss-Gazer.txt
+Abyss-Gazer.md
 ```
 
 จากนั้นก็ลงมือสร้าง ปีศาจร้าย (THE A.B.O.M.I.N.A.T.I.O.N) ของพวกเอ็งได้เลย 
@@ -160,7 +160,7 @@ git status
 เพิ่มไฟล์เข้า staging area
 
 ```bash
-git add <YOUR_MONSTER_NAME_HERE>.txt
+git add <YOUR_MONSTER_NAME_HERE>.md
 ```
 
 หรือ
